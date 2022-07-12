@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Refactoring.LegacyService
+build_property.ProjectDir = C:\tmp\Refactoring.LegacyService\Refactoring.LegacyService\
